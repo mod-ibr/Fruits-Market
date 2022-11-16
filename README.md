@@ -1,14 +1,15 @@
 # Fruits Market App with Firebase
 
 ## References: 
-   ### UX UI Design        :  Manish Chutake, behance:  https://www.behance.net/manishchutake 
-   ### Design Architecture :  Tharwat Samy, linkedin : https://www.linkedin.com/in/tharwat-samy-363aa7177/
+   ## UX UI Design        :  Manish Chutake, behance:  https://www.behance.net/manishchutake 
+   ## Design Architecture :  Tharwat Samy, linkedin : https://www.linkedin.com/in/tharwat-samy-363aa7177/
    
 ## For the complete App just connect with me on LinkedIn : https://www.linkedin.com/in/mahmoud-ibrahim-ellahone-0a5a011ba/
 ## Demo for App with Google and Facebook Authentication
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/81623956/202060923-8c5cad73-f996-4a5c-88b7-2c52c45c48b5.gif)
 
-
+## Full App UI : https://www.behance.net/gallery/115391773/Fruit-Market-Online-Delivery-App-UI-kit
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/81623956/202062382-80d12c27-6cc3-4e04-8a08-b94fae2c4ca5.gif)
 
 This project is a starting point for a Flutter application.
 
